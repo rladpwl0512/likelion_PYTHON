@@ -17,4 +17,4 @@ cal = UpgradeCalculator()
 print(cal.add(10))
 print(cal.minus(7))
 
-print(cal.value)
+print(cal.value) #10-7출력
